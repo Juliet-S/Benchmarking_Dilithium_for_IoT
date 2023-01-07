@@ -1,0 +1,8 @@
+top - 12:44:17 up  4:05,  1 user,  load average: 1.56, 1.33, 1.07
+Tasks: 537 total,   1 running, 440 sleeping,  90 stopped,   6 zombie
+%Cpu(s):  3.9 us,  2.6 sy,  0.0 ni, 93.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :  31951.0 total,  17012.4 free,   8208.3 used,   6730.3 buff/cache
+MiB Swap:    977.0 total,    977.0 free,      0.0 used.  22904.6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+ 584483 jsa117    20   0       0      0      0 D  60.0   0.0   0:00.09 PQCgenK+
